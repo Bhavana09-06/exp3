@@ -1,0 +1,3 @@
+this is
+new file
+using 3 way merge
